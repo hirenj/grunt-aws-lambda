@@ -1,5 +1,5 @@
 {
-    "name": "toshke-grunt-aws-lambda",
+    "name": "grunt-aws-lambda",
     "description": "A grunt plugin to help develop AWS Lambda functions.",
     "version": "0.13.3",
     "homepage": "https://github.com/Tim-B/grunt-aws-lambda",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/toshke/grunt-aws-lambda.git"
+        "url": "git://github.com/hirenj/grunt-aws-lambda.git"
     },
     "bugs": {
         "url": "https://github.com/Tim-B/grunt-aws-lambda/issues"
